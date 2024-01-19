@@ -39,6 +39,6 @@
 清理原始数据，得到可以被后续模块识别的数据。
 虽然原始数据不同，但是经过数据所归属的类的逻辑处理后都将得到edges数据。
 ```python
-[("Border","Epicmo","Subway Line4"),("Scarlet","Liaosunny123","白玉楼")]
+[("Border","Epicmo","Subway Line4"8),("Scarlet","Liaosunny123","白玉楼",6)]
 ```
-表示市民Border和Epicmo在地铁4号线有过接触，市民Scarlet和Liaosunny123在白玉楼有过接触。    
+表示市民Border和Epicmo在地铁4号线有过接触，并且危险度为8，市民Scarlet和Liaosunny123在白玉楼有过接触，并且危险度为6。    
