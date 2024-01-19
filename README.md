@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/306f2016-648f-4ed3-822c-e9d658a056c8/project/018d1c03-117f-4eba-a68a-a8f5526acbd8.svg)](https://wakatime.com/badge/user/306f2016-648f-4ed3-822c-e9d658a056c8/project/018d1c03-117f-4eba-a68a-a8f5526acbd8)
 # HealthDetector
 homework of a second year student. apply Community Detection in public health usage
 
