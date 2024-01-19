@@ -1,5 +1,6 @@
 import pickle
 import os
+
 from OriginalGenerator import NameGene, Shopping, Transport
 import DataCleaner
 
